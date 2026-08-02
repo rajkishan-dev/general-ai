@@ -1,1 +1,1 @@
-Small coding, AI and web projects built during my learning journey.
+Aitools, prompts, automations and project resources using ChatGPT, Gemini, Claude, Canva AI and other AI tools for learning and building real-world applications 
